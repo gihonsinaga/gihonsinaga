@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=10&i=javascript,nodejs,git,github,postman,figma" />
+    <img src="https://skillicons.dev/icons?perline=10&i=javascript,nodejs,axios,git,github,postman,figma" />
   </a>
 </p>
 <br>
