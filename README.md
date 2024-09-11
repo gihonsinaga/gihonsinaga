@@ -4,7 +4,7 @@
 
 ## About 
 
- Something about me, I am an undergraduate information technology student at the University of North Sumatra. interested in Frontend Engineering and Web Development 
+ Something about me, I am an undergraduate information technology student at the University of North Sumatra. interested in Frontend Engineering and Web Development.
 
 
 ## Statistic
