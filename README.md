@@ -7,7 +7,7 @@
  Something about me, I am an undergraduate information technology student at the University of North Sumatra. interested in Frontend Engineering and Web Development.
 
 
-## Statistic
+## Stats
 <div align=center>
 <a href="https://github.com/gihonsinaga">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=gihonsinaga&rank_icon=github&bg_color=000000&text_color=FFFFFF" />
