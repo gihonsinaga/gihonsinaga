@@ -2,7 +2,7 @@
 
 <br>
 
-<div align=center>## About Me </div>
+## About Me
 
  something about me, I am an undergraduate information technology student at the University of North Sumatra. interested in Frontend Engineering and Web Development 
 
