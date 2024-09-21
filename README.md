@@ -14,7 +14,7 @@
 </a>
 <span style="font-size: 30px; color: #808080;">|</span>
 <a href="https://github.com/gihonsinaga">
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihonsinaga&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=FFFFFF" />
+  <img height=200 width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihonsinaga&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=FFFFFF" />
 </a>
 </div><br>
 
