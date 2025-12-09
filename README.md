@@ -17,7 +17,7 @@
 </a>
 <span style="font-size: 30px; color: #808080;">|</span>
 <a href="https://github.com/gihonsinaga">
-  <img src="https://giphy.com/explore/web-development" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdqbjUzbjlucDRzYzhid2xnMDR3djlhdGI1NXQ4c2RjeGE0b3lyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" />
 </a>
 <a href="https://github.com/gihonsinaga">
   <img height=200 width=330  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gihonsinaga&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=FFFFFF" />
