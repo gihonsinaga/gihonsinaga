@@ -8,7 +8,7 @@
 
 ## About 
 
-<table border="0">
+<table border="0" style="border-collapse: collapse;>
   <tr>
     <td style="width: 50%; vertical-align: top;">
       Something about me, I am a graduated Information Technology student at the University of North Sumatra,
@@ -16,7 +16,7 @@
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
       <a href="https://github.com/gihonsinaga">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdqbjUzbjlucDRzYzhid2xnMDR3djlhdGI1NXQ4c2RjeGE0b3lyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="180">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdqbjUzbjlucDRzYzhid2xnMDR3djlhdGI1NXQ4c2RjeGE0b3lyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500">
       </a>
     </td>
   </tr>
