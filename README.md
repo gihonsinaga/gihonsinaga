@@ -6,9 +6,27 @@
 
  Something about me, I am an graduated information technology student at the University of North Sumatra. interested in Frontend Engineering and Web Development.
 
-<a href="https://github.com/gihonsinaga">
-  <img src="GIF_URL_HERE" width="200">
-</a>
+## About 
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  
+  <div style="flex: 1;">
+    <h2>About</h2>
+    <p>
+      Something about me, I am a graduated Information Technology student at the University of North Sumatra,
+      interested in Frontend Engineering and Web Development.
+    </p>
+  </div>
+
+  <div>
+    <a href="https://github.com/gihonsinaga">
+      <img src="GIF_URL_HERE" width="180" />
+    </a>
+  </div>
+
+</div>
+
+
 
 ## Stats
 <div align=center>
