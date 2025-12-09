@@ -6,6 +6,9 @@
 
  Something about me, I am an graduated information technology student at the University of North Sumatra. interested in Frontend Engineering and Web Development.
 
+<a href="https://github.com/gihonsinaga">
+  <img src="GIF_URL_HERE" width="200">
+</a>
 
 ## Stats
 <div align=center>
