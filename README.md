@@ -5,6 +5,8 @@
 ## About 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NfWWha8lsQ4AAAAM/gator.gif">
+<img align="right" alt="coding" width="400" src="[https://media.tenor.com/NfWWha8lsQ4AAAAM/gator.gif](https://i0.wp.com/www.teamjimmyjoe.com/wp-content/uploads/2015/06/Baby-Ninja.gif?resize=400%2C276)">
+
 <!-- <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdqbjUzbjlucDRzYzhid2xnMDR3djlhdGI1NXQ4c2RjeGE0b3lyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"> -->
 
 <p align="left"> 
